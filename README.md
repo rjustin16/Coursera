@@ -146,7 +146,7 @@ h2{
     width: 41.66%;
   }
   .col-md-6 {
-    width: 46%;
+    width: 48%;
   }
   .col-md-7 {
     width: 58.33%;
